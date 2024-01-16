@@ -170,7 +170,7 @@ font-family: Mulish;
 font-size: 40px;
 font-weight: 800;
 }
-.travel{
+.li{
     color: rgba(19, 19, 24, 0.70);
 
 text-align: center;
@@ -208,4 +208,69 @@ margin-left: 100px;
 }
 .pic{
     margin-left: 50px;
+}
+.To{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px; /* 162.5% */
+}
+.blog{
+    display: flex;
+    gap: 24px;
+    margin-left: 66px;
+}
+.initial-scale{
+    color: #131318;
+font-family: Mulish;
+font-size: 24px;
+font-weight: 800px;
+}
+.class{
+    color: #5A5A5D;
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.dose{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+}
+.email{
+    border-radius: 16px;
+border: 1px solid #FF5400;
+width: 474px;
+height: 422px;
+}
+.meta{
+    color: #5A5A5D;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+
+.styles{
+    display: flex;
+    background: rgba(19, 19, 24, 0.05);
+    width: 1440px;
+
+}
+.styles-img{
+    width: 48px;
+height: 40px;
+padding-top: 33px;
+padding-right: 6px;
+color: #FF5400;
+
+}
+.Travel{
+    font-size: 40px;
+    color: #FF5400;
 }
